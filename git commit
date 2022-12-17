@@ -1,0 +1,108 @@
+[33mc305af6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m fix #134
+[33mef7e6e4[m update > doc
+[33m0980dd9[m update > for close issue #129
+[33mb9f4c2f[m update > code
+[33mf55b561[m update > maven dependency version
+[33m8b6cd8d[m update > code comment
+[33m53d0855[m update > code comment
+[33m3caef68[m update > code comment
+[33m6749014[m update > dependency version
+[33m222b6da[m Merge remote-tracking branch 'origin/master'
+[33m15c0069[m update > dependency version
+[33made1c18[m update > for close #40
+[33m82b3363[m fix & close issue #60
+[33me3fe698[m fix > file encoding for issue #65
+[33mcb17ddd[m fix > file encoding for issue #65
+[33mf3341aa[m fix > file encoding for issue #65
+[33m660eb31[m fix > file encoding for issue #65
+[33m5f56ae5[m update > java version to 1.8 close #64
+[33m1904bae[m update > pom dependencies version, close #50
+[33m986d082[m update > alibaba-dev-doc version to v1.3.0
+[33mf07318a[m fix > issue #45
+[33me800911[m[33m ([m[1;33mtag: V1.3[m[33m)[m add > new feature for issue #32
+[33m069c318[m update > druid-spring-boot-starter version to v1.1.2
+[33m387eb2c[m[33m ([m[1;33mtag: V1.2[m[33m)[m update > druid-spring-boot-starter version to v1.1.1
+[33m121b7ef[m Merge pull request #27 from narakai/dev
+[33mecc7e14[m modified template
+[33m905234a[m update > document
+[33mdb29f6c[m fix > issue #19
+[33m9b715b5[m fix > issue #17
+[33m67cf9df[m update > controller template & exception handler for issue #13
+[33m1e8e1bd[m update > controller template & exception handler for issue #13
+[33m0367d4a[m Merge remote-tracking branch 'origin/master'
+[33m7d7ee28[m update > the document thanks for your support
+[33ma5d0c8f[m update > the document
+[33md37d9c3[m update > the document
+[33m8a81db5[m update > optimize sign validate code & annotation
+[33mac667ef[m update > optimize sign validate code & annotation
+[33mc2787f4[m update > mybatis&mapper&pagehelper dependence version
+[33m414e0f9[m update > optimize  MybatisConfigurer
+[33md5727db[m delete > spring-boot-starter-redis、aop dependency
+[33mec2d766[m fix > issue #4
+[33mdef70c7[m fix > issue #3 compatible with Linux & MacOS
+[33m4470897[m[33m ([m[1;33mtag: V1.1[m[33m)[m update > the document
+[33m706514b[m update > the document
+[33m39cac03[m update > compatible with uppercase table name
+[33m4eee7b8[m update > optimize code annotation
+[33m3c530ca[m update > compatible with uppercase table name
+[33mb00626f[m update > optimize CodeGenerator,simplify project config.
+[33m78a4345[m fix > controller.ftl
+[33m548db63[m[33m ([m[1;33mtag: V1.0[m[33m)[m add > aliyun maven repository to increased dependency download speed
+[33mfcbda8f[m Merge remote-tracking branch 'origin/master'
+[33ma70333b[m update > optimize code
+[33m87ed848[m add> optimize code
+[33m6e33fb4[m update > youku example video link
+[33m6d83bfa[m update > the document
+[33m1d03c93[m update > the document
+[33ma4096df[m update > the document
+[33m0a55681[m update > the document
+[33me1f8e4d[m update > the document
+[33m2d5d562[m update > the document
+[33mab34fb6[m update > the document
+[33mfe8eb80[m update > FastJsonpHttpMessageConverter4 change to FastJsonHttpMessageConverter4
+[33m271ed1a[m update > the document
+[33m27795ea[m Merge remote-tracking branch 'origin/master'
+[33m55d0410[m update > the document
+[33m3bb0845[m Update README.md
+[33me715ac4[m Update README.md
+[33m03ee366[m update > the document
+[33m8e095a2[m Update README.md
+[33mf10b12f[m Merge remote-tracking branch 'origin/master'
+[33mf03a12e[m add > simple api sign auth
+[33m29c73e6[m Update README.md
+[33m81b13de[m Update README.md
+[33mc51d96d[m Update README.md
+[33m0174b67[m Update README.md
+[33m01373b0[m Update README.md
+[33m5918a12[m Update README.md
+[33m8f0db07[m Merge remote-tracking branch 'origin/master'
+[33m3218eaa[m update > README
+[33mec65d0b[m Update README.md
+[33m77d0457[m Update README.md
+[33mc6f13a5[m Update README.md
+[33m0fe190c[m update > README
+[33mf273db8[m update > demo-user.sql
+[33m1d9e10a[m add > RESTFul controller template
+[33m50276b2[m add > RESTFul controller template
+[33m188b20e[m add > RESTFul controller template
+[33mcbd918c[m update > the project maven dependence
+[33m1200b1b[m Merge remote-tracking branch 'origin/master'
+[33m246364b[m update > the project document
+[33m9eda29f[m update > project document
+[33mdd53bc4[m update > project document
+[33m51e6c2b[m update > project document
+[33mfa515c3[m update > README
+[33me2b8769[m update > README
+[33m6b38ad9[m update > README
+[33m6dbe452[m update > README
+[33m173c9b4[m add > .gitignore
+[33mfb5756a[m update > 注释
+[33m5d8f2ef[m add > 彩蛋
+[33m54033f1[m add > Spring Boot启动类
+[33mbd09ee4[m add > 开发、测试、生产环境配置文件
+[33m8416665[m add > 统一响应封装&生成工具&基础Service&异常等
+[33m6d2d5c7[m add > MyBatis配置&SpringMVC配置
+[33m1b57ed4[m add > 基础测试类&代码生成器&模板
+[33m1907bfd[m add > 配置项目&添加相关依赖
+[33me9281f3[m add > README
+[33md156e3f[m add > README
